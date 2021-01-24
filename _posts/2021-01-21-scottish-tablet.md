@@ -2,7 +2,7 @@
 layout: post
 title:  "Scottish Tablet"
 date:   2021-01-21 20:01:33 +0000
-categories: Confectionary
+categories: confectionary
 image: /assets/images/tablet-img.jpg
 ---
 Makes about 1kg.

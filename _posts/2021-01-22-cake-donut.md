@@ -2,7 +2,7 @@
 layout: post
 title:  "Cake Donut"
 date:   2021-01-21 20:01:33 +0000
-categories: Donut
+categories: donut
 image: /assets/images/cakedonut-img.jpg
 ---
 Makes about 24 donuts.

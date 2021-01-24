@@ -2,7 +2,7 @@
 layout: post
 title:  "Gingerbread"
 date:   2021-01-21 20:01:33 +0000
-categories: Biscuits
+categories: cake
 image: /assets/images/gingerbread-img.jpg
 ---
 Makes about 15 small cookies.

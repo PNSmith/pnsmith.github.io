@@ -2,7 +2,7 @@
 layout: post
 title:  "Yeast Donut"
 date:   2021-01-21 20:01:33 +0000
-categories: donuts
+categories: donut
 image: /assets/images/yeastdonut-img.jpg
 ---
 Makes about 24 donuts.
