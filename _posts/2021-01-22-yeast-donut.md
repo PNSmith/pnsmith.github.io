@@ -5,6 +5,14 @@ date:   2021-01-21 20:01:33 +0000
 categories: donut
 image: /assets/images/yeastdonut-img.jpg
 ---
+Perfect yeast doughnuts are easy to make at home if you have the right recipe. You now have that recipe in your hands (or on your desk). What are you waiting for?
+
+Who can resist perfect, soft and fluffy doughnuts?
+
+Especially if it is a freshly homemade, fluffy yeast doughnut filled with raspberry jam and fresh cream? Not me!
+
+And I honestly have no desire for a store-bought, packaged, baked or donut shop doughnuts. They’re not nearly as enticing. This recipe is simply the best for sugared, cream or jam filled or glazed doughnuts.
+
 Makes about 24 donuts.
 
 ## Ingredients

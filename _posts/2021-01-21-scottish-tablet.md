@@ -5,6 +5,8 @@ date:   2021-01-21 20:01:33 +0000
 categories: confectionary
 image: /assets/images/tablet-img.jpg
 ---
+Anyone who has indulged in Scottish Tablet will tell you it’s really like nothing else in the world. A first glance you would be forgiven for assuming it is fudge but when you bite into a piece it instantly becomes clear that this is no fudge! With a gritty, melt-in-the-mouth texture and so sweet it makes your teeth ache; it really is quite unique.
+
 Makes about 1kg.
 
 ## Ingredients
