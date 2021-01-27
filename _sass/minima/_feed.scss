@@ -12,7 +12,7 @@
     .card-content {
         display: grid;
         grid-template-rows: min-content auto min-content;
-        background-color: black;
+        background-color: darkgray;
         grid-template-areas:
             "title"
             "excerpt"

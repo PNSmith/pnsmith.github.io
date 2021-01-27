@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Cake
+title: Pastry
 feed-type: cake  
 permalink: /feed/cake
 ---
- 
