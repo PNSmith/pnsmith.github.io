@@ -23,7 +23,7 @@ email: pnsmith22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This my site for all my recipes, I like to try new things then tinker with them to make them the best they can be.
   There may be regular updates so keep coming back. As you will see I love donuts so there will be plenty of donuts!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pnsmith.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thecoffeeman33
 github_username:  PNSmith
