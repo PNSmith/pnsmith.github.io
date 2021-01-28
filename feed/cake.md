@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pastry
-feed-type: cake  
-permalink: /feed/cake
+title: favorites
+feed-type: favorites  
+permalink: /feed/favorites
 ---
