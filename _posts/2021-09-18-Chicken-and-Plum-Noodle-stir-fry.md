@@ -3,7 +3,7 @@ layout: post
 title: Chicken & Plum Noodle Stir Fry
 date:   2021-09-18 20:01:33 +0000
 categories: christmas
-image: /assets/images/festive-gravy-img.jpg
+image: /assets/images/chicken-plum-noodle-stir-fry.jpeg
 ---
 
 ## Ingredients
