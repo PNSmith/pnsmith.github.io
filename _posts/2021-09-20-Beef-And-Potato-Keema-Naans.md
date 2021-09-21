@@ -40,7 +40,7 @@ d) When the potatoes have been cooking for 5 minutes, reserve some of the water 
 ![Get Prepped](/assets/images/bpkn-step-2.jpeg "Get Prepped")
 
 a) Peel 1 garlic clove, wrap in foil with a drizzle of oil, roast in the oven for 10 mins, peel and grate the other garlic clove.  
-b) Trim the root from the baby gem lettuce the havle lengthways and thinly slice widthways.
+b) Trim the root from the baby gem lettuce the havle lengthways and thinly slice widthways.  
 c) Trim and thinly slice the spring onions.  
 d) Add the red wine vinegar to a bowl along with a pinch of sugar and oil, mix together and set aside.  
 
