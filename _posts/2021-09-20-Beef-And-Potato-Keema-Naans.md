@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beef and Potato Keema Naans
-date:   2021-09-18 20:01:33 +0000
+date:   2021-09-20 20:01:33 +0000
 categories: favorites
 image: /assets/images/beef-and-potato-keema-naans.jpeg
 ---
@@ -11,6 +11,7 @@ image: /assets/images/beef-and-potato-keema-naans.jpeg
 * Baking Potato
 * Water for sauce
 * Garlic Clove
+* Baby Gem Lettuce
 * Spring Onion
 * Red Wine Vinegar
 * Olive Oil For Dressing
