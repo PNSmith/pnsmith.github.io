@@ -70,7 +70,7 @@ c) Drain the noodles and add them to the pan, stir together and cook until every
 
 ### 6. Serve  
 
-![Serve](/assets/images/cpnst-step-1.6peg "Serve")
+![Serve](/assets/images/cpnst-step-6.peg "Serve")
 
 a) Divide the chicken and plum noodles between your bowls.  
 b) Scatter over the peanuts and remaining spring onion.  
