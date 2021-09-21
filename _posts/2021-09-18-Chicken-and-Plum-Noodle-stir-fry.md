@@ -7,7 +7,7 @@ image: /assets/images/chicken-plum-noodle-stir-fry.jpeg
 ---
 
 
-### This Chicken & Plum Noodle Stir-Fry is bursting full of flavours and make the perfect dinner night option, Cook up a fresh start!
+### This Chicken and Plum Noodle Stir-Fry is bursting full of flavours and make the perfect dinner night option, Cook up a fresh start!
 
 ## Ingredients
 
