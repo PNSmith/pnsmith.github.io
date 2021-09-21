@@ -27,6 +27,8 @@ image: /assets/images/beef-and-potato-keema-naans.jpeg
 
 ### 1. Cook the Potato
 
+![boil potatoes](/assets/images/bpkn-step-1.jpeg "Potatoes in Pan")
+
 a) Preheat your oven to 200C  
 b) Bring a large saucepan of water to the boil with 1/4tsp of salt for the potatoes.  
 c) Peel the potatoes, chop them into 1cm chunks, when water is boiling, add the potatoes and cook until you can easily slip a knife through, 10-15mins.  
