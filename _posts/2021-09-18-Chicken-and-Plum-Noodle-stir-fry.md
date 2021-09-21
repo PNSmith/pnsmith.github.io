@@ -7,7 +7,7 @@ image: /assets/images/chicken-plum-noodle-stir-fry.jpeg
 ---
 
 
-## This Chicken & Plum Noodle Stir-Fry is bursting full of flavours and make the perfect dinner night option, Cook up a fresh start!
+### This Chicken & Plum Noodle Stir-Fry is bursting full of flavours and make the perfect dinner night option, Cook up a fresh start!
 
 ## Ingredients
 
@@ -31,9 +31,9 @@ image: /assets/images/chicken-plum-noodle-stir-fry.jpeg
 
 ![Cook the noodles](/assets/images/cpnst-step-1.jpeg "Cook the Noodles")
 
-a)Bring a saucepan of water to the boil with 1/4 tsp of salt for noodles.  
-b)When boiling, add noodles and cook for 4 mins.  
-c)Drain in sieve, run the noodles under cold water to stop them from sticking together, return to pan (off the heat).  
+a) Bring a saucepan of water to the boil with 1/4 tsp of salt for noodles.  
+b) When boiling, add noodles and cook for 4 mins.  
+c) Drain in sieve, run the noodles under cold water to stop them from sticking together, return to pan (off the heat).  
 
 ### 2. Fry the Chicken  
 
@@ -56,23 +56,23 @@ d) Peel and grate the garlic (or use a garlic press).
 ![Stir-Fry Time](/assets/images/cpnst-step-4.jpeg "Stir-Fry Time")
 
 a) Lower the heat to medium and add the plums to the pan with the chicken.  
-b)Stir-fry until the plums start to colour, 1-2 mins.  
-c)Stir in the garlic and ginger puree along with half the spring onion and the chilli flakes.  
+b) Stir-fry until the plums start to colour, 1-2 mins.  
+c) Stir in the garlic and ginger puree along with half the spring onion and the chilli flakes.  
 d) Stir-fry for another minute.  
 
 ### 5. Finish up  
 
 ![Finish Up](/assets/images/cpnst-step-5.jpeg "Finish Up")
 
-a) add the bok choy and stir fry until just soft, 1-2 mins.  
-b) stir in the hoisin sauce, ketjap manis and water for the sauce, ensuring everything is well coated.  
+a) Add the bok choy and stir fry until just soft, 1-2 mins.  
+b) Stir in the hoisin sauce, ketjap manis and water for the sauce, ensuring everything is well coated.  
 c) Drain the noodles and add them to the pan, stir together and cook until everything is piping hot, 1-2 mins.  
 
 ### 6. Serve  
 
 ![Serve](/assets/images/cpnst-step-1.6peg "Serve")
 
-a) divide the chicken and plum noodles between your bowls.  
+a) Divide the chicken and plum noodles between your bowls.  
 b) Scatter over the peanuts and remaining spring onion.  
 
 #### Enjoy!  

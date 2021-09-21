@@ -6,7 +6,7 @@ categories: favorites
 image: /assets/images/beef-and-potato-keema-naans.jpeg
 ---
 
-## Street food style dish, not to spicy quick and easy to make about 20 minutes from start to finish.
+### Street food style dish, not to spicy quick and easy to make about 20 minutes from start to finish.
 
 ## Ingredients
 
