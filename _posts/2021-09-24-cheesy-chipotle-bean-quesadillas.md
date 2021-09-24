@@ -48,7 +48,7 @@ c) Heat a drizzle of oil in a large frying pan on medium-high heat.
 a) When hot, carefully lay the quesadillas in the pan.  
 b) Fry until golden, 2 mins each side. Turn carefully.Lightly press down on the tortillas with a spatula to ensure they stick together and brown nicely.  
 TIP: You may have to do this in batches, adding a little more oil to the pan each time -  
-c)just cover the cooked quesadillas with foil to keep warm.
+c) Just cover the cooked quesadillas with foil to keep warm.
 
 ### 4. Prep the Avocado  
 
