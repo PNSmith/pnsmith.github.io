@@ -10,21 +10,21 @@ image: /assets/images/cheesy-chipotle-bean-quesadillas.jpeg
 
 ## Ingredients
 
-* Mozzarella
-* Super Soft Tortilla with Whole Wheat
+* Mixed Beans
+* Cheddar Cheese
 * Tomato Puree
-* Chorizo
-* Black Beans
-* Lime
+* Balsamic Vinegar
+* Chipotle Paste
+* Plum Tomatoes
 * Spring Onion
-* Green Chilli
-* Coriander
+* Super Soft Tortilla with Whole Wheat
+* Rocket
 * Avocado
 * Olive Oil
 
 ## Method
 
-### 1. Prep the Tortizza
+### 1. Make the filling
 
 ![Make the filling](/assets/images/ccbq-step-1.jpeg "Make the filling")
 
