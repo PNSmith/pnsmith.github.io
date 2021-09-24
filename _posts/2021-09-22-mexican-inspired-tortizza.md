@@ -36,13 +36,13 @@ c) Arrange your tortilla bases (2 per person) on baking trays and cover with the
 
 ![Bake](/assets/images/bpkn-step-2.jpeg "Bake")
 
-a) a) Bake the tortizzas in the oven until golden and the cheese is bubbly 7-8 mins.  
+a) Bake the tortizzas in the oven until golden and the cheese is bubbly 7-8 mins.  
 
 ### 3. Make the Salsa
 
 ![Make the Salsa](/assets/images/mit-step-3.jpeg "Make the Salsa")
 
-a) a) Meanwhile drain and rinse the black beans.  
+a) Meanwhile drain and rinse the black beans.  
 b) Zest, then halve the lime.  
 c) Trim and thinly slice the spring onion.  
 d) Thinly slice the green chilli. TIP: Halve lengthways and remove the seeds first if you don't like things too spicy!.  
@@ -52,7 +52,7 @@ e) Roughly chop the coriander (stalks and all).
 
 ![Prep the Avocado](/assets/images/mit-step-4.jpeg "Prep the Avocado")
 
-a) a) Slice lengthways into the avocado.  
+a) Slice lengthways into the avocado.  
 b) Once you reach the stone turn the avocado around to cut it in half.  
 c) Twist each half and pull it apart.  
 d) Remove the stone then scoop out the insides onto your chopping board.  
