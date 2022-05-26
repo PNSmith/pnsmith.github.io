@@ -6,8 +6,9 @@ categories: favorites
 image: /assets/images/mexican-inspired-tortizza.jpeg
 ---
 
-### The great thing about pizza toppings is you can add them to any kind of base. You don’t always need to use pizza dough. Take this tortizza recipe,
-#### A tortilla wrap-based pizza alternative that’s ready in just 15 minutes. Bake the tortillas in the oven with a lathering of tomato puree and stringy mozzarella cheese and sprinkle over chorizo for a smokey flavour. Once golden and bubbly, add the Mexican toppings for a spicy and tangy kick and serve with salsa, coriander and spring onion.
+### The great thing about pizza toppings is you can add them to any kind of base. You don’t always need to use pizza dough. Take this tortizza recipe, a tortilla wrap-based pizza alternative that’s ready in just 15 minutes.
+
+Bake the tortillas in the oven with a lathering of tomato puree and stringy mozzarella cheese and sprinkle over chorizo for a smokey flavour. Once golden and bubbly, add the Mexican toppings for a spicy and tangy kick and serve with salsa, coriander and spring onion.
 
 ## Ingredients
 
