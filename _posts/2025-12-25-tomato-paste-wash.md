@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tomato Paste Wash 
-date:
-categories:
+date: 2025-12-25 18:11:00 +0000
+categories: Christmas 
 image: /assets/images/broccoli-img.jpg
 ---
 
